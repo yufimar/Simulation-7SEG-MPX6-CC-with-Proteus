@@ -1,6 +1,8 @@
 # Simulation-7SEG-MPX6-CC-with-Proteus
 Sama" masih belajaran, mohon di koreksi jika ada kesalahan :)
 
+Download terlebih dahulu library LedControl, kemudian extrack pada folder library arduino
+
 File Arduino .ino
 File Proteus .dsn
 
